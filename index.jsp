@@ -54,7 +54,7 @@
                                              <input type="text" name="server_url"
                                                 id="server_url"
                                                 placeholder="Enter Pool Manager URL here..."
-                                                value="http://pnv6s1614:7001/awc/" required
+                                                value="http://pnv6s1629:7001/awc/" required
                                                 class="wide" onchange="checkform()" /> <!-- http://10.134.64.92:7001/awc/, http://10.134.64.60:7001/awc/, http://pnv6s830:7001/awc/ http://10.134.210.47:7001/awc/-->
                                           </td>
                                        </tr>
